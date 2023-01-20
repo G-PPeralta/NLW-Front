@@ -1,5 +1,3 @@
-// import { useState } from "react";
-
 import logoImage from "../assets/logo.svg";
 import { NewHabitModal } from "./NewHabitModal";
 
